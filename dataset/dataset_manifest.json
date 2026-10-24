@@ -1,0 +1,566 @@
+[
+  {
+    "session_id": "sample_9d8dd1e5",
+    "sentence_label": "I love to eat rice",
+    "gloss_labels": [
+      "ME",
+      "LOVE",
+      "TO",
+      "EAT",
+      "RICE"
+    ],
+    "signer_id": "signer_01",
+    "num_frames": 60,
+    "duration_sec": 0.02,
+    "fps": 2931.37,
+    "quality_score": 100.0,
+    "warnings": [],
+    "created_at": "2026-07-26 19:44:25"
+  },
+  {
+    "session_id": "sample_473bd657",
+    "sentence_label": "I sign ME",
+    "gloss_labels": [
+      "ME"
+    ],
+    "signer_id": "signer_01",
+    "num_frames": 39,
+    "duration_sec": 0.253,
+    "fps": 154.18,
+    "quality_score": 100.0,
+    "warnings": [],
+    "created_at": "2026-07-26 23:07:00"
+  },
+  {
+    "session_id": "sample_e828d81c",
+    "sentence_label": "I sign LOVE",
+    "gloss_labels": [
+      "LOVE"
+    ],
+    "signer_id": "signer_02",
+    "num_frames": 35,
+    "duration_sec": 0.001,
+    "fps": 30032.86,
+    "quality_score": 100.0,
+    "warnings": [],
+    "created_at": "2026-07-26 23:07:00"
+  },
+  {
+    "session_id": "sample_ea1d4d39",
+    "sentence_label": "I sign TO",
+    "gloss_labels": [
+      "TO"
+    ],
+    "signer_id": "signer_03",
+    "num_frames": 43,
+    "duration_sec": 0.001,
+    "fps": 38162.31,
+    "quality_score": 100.0,
+    "warnings": [],
+    "created_at": "2026-07-26 23:07:00"
+  },
+  {
+    "session_id": "sample_3d203dae",
+    "sentence_label": "I sign EAT",
+    "gloss_labels": [
+      "EAT"
+    ],
+    "signer_id": "signer_04",
+    "num_frames": 32,
+    "duration_sec": 0.001,
+    "fps": 31979.44,
+    "quality_score": 100.0,
+    "warnings": [],
+    "created_at": "2026-07-26 23:07:00"
+  },
+  {
+    "session_id": "sample_bf40123a",
+    "sentence_label": "I sign RICE",
+    "gloss_labels": [
+      "RICE"
+    ],
+    "signer_id": "signer_01",
+    "num_frames": 28,
+    "duration_sec": 0.001,
+    "fps": 27942.07,
+    "quality_score": 100.0,
+    "warnings": [],
+    "created_at": "2026-07-26 23:07:00"
+  },
+  {
+    "session_id": "sample_33c779aa",
+    "sentence_label": "I sign HELLO",
+    "gloss_labels": [
+      "HELLO"
+    ],
+    "signer_id": "signer_02",
+    "num_frames": 26,
+    "duration_sec": 0.001,
+    "fps": 25671.35,
+    "quality_score": 100.0,
+    "warnings": [],
+    "created_at": "2026-07-26 23:07:00"
+  },
+  {
+    "session_id": "sample_f4551810",
+    "sentence_label": "I sign THANK-YOU",
+    "gloss_labels": [
+      "THANK-YOU"
+    ],
+    "signer_id": "signer_03",
+    "num_frames": 29,
+    "duration_sec": 0.001,
+    "fps": 28830.25,
+    "quality_score": 100.0,
+    "warnings": [],
+    "created_at": "2026-07-26 23:07:00"
+  },
+  {
+    "session_id": "sample_7aa27b09",
+    "sentence_label": "I sign YES",
+    "gloss_labels": [
+      "YES"
+    ],
+    "signer_id": "signer_04",
+    "num_frames": 25,
+    "duration_sec": 0.001,
+    "fps": 24989.9,
+    "quality_score": 100.0,
+    "warnings": [],
+    "created_at": "2026-07-26 23:07:00"
+  },
+  {
+    "session_id": "sample_a201ceae",
+    "sentence_label": "I sign NO",
+    "gloss_labels": [
+      "NO"
+    ],
+    "signer_id": "signer_01",
+    "num_frames": 26,
+    "duration_sec": 0.001,
+    "fps": 22246.41,
+    "quality_score": 100.0,
+    "warnings": [],
+    "created_at": "2026-07-26 23:07:00"
+  },
+  {
+    "session_id": "sample_ae7c92c7",
+    "sentence_label": "I sign PLEASE",
+    "gloss_labels": [
+      "PLEASE"
+    ],
+    "signer_id": "signer_02",
+    "num_frames": 41,
+    "duration_sec": 0.0,
+    "fps": 0.0,
+    "quality_score": 100.0,
+    "warnings": [],
+    "created_at": "2026-07-26 23:07:00"
+  },
+  {
+    "session_id": "sample_877196da",
+    "sentence_label": "I sign GOOD",
+    "gloss_labels": [
+      "GOOD"
+    ],
+    "signer_id": "signer_03",
+    "num_frames": 34,
+    "duration_sec": 0.0,
+    "fps": 0.0,
+    "quality_score": 100.0,
+    "warnings": [],
+    "created_at": "2026-07-26 23:07:00"
+  },
+  {
+    "session_id": "sample_29fd9a06",
+    "sentence_label": "I sign HELP",
+    "gloss_labels": [
+      "HELP"
+    ],
+    "signer_id": "signer_04",
+    "num_frames": 43,
+    "duration_sec": 0.0,
+    "fps": 0.0,
+    "quality_score": 100.0,
+    "warnings": [],
+    "created_at": "2026-07-26 23:07:00"
+  },
+  {
+    "session_id": "sample_2f6623fd",
+    "sentence_label": "I sign FRIEND",
+    "gloss_labels": [
+      "FRIEND"
+    ],
+    "signer_id": "signer_01",
+    "num_frames": 43,
+    "duration_sec": 0.001,
+    "fps": 42809.18,
+    "quality_score": 100.0,
+    "warnings": [],
+    "created_at": "2026-07-26 23:07:00"
+  },
+  {
+    "session_id": "sample_24324863",
+    "sentence_label": "I sign NAME",
+    "gloss_labels": [
+      "NAME"
+    ],
+    "signer_id": "signer_02",
+    "num_frames": 42,
+    "duration_sec": 0.001,
+    "fps": 42093.37,
+    "quality_score": 100.0,
+    "warnings": [],
+    "created_at": "2026-07-26 23:07:00"
+  },
+  {
+    "session_id": "sample_08d41925",
+    "sentence_label": "I sign WANT",
+    "gloss_labels": [
+      "WANT"
+    ],
+    "signer_id": "signer_03",
+    "num_frames": 33,
+    "duration_sec": 0.001,
+    "fps": 33041.78,
+    "quality_score": 100.0,
+    "warnings": [],
+    "created_at": "2026-07-26 23:07:00"
+  },
+  {
+    "session_id": "sample_abe7effc",
+    "sentence_label": "I sign ME",
+    "gloss_labels": [
+      "ME"
+    ],
+    "signer_id": "signer_04",
+    "num_frames": 36,
+    "duration_sec": 0.001,
+    "fps": 35994.03,
+    "quality_score": 100.0,
+    "warnings": [],
+    "created_at": "2026-07-26 23:07:00"
+  },
+  {
+    "session_id": "sample_52113535",
+    "sentence_label": "I sign LOVE",
+    "gloss_labels": [
+      "LOVE"
+    ],
+    "signer_id": "signer_01",
+    "num_frames": 43,
+    "duration_sec": 0.001,
+    "fps": 42376.66,
+    "quality_score": 100.0,
+    "warnings": [],
+    "created_at": "2026-07-26 23:07:00"
+  },
+  {
+    "session_id": "sample_845477dd",
+    "sentence_label": "I sign TO",
+    "gloss_labels": [
+      "TO"
+    ],
+    "signer_id": "signer_02",
+    "num_frames": 33,
+    "duration_sec": 0.001,
+    "fps": 33002.39,
+    "quality_score": 100.0,
+    "warnings": [],
+    "created_at": "2026-07-26 23:07:00"
+  },
+  {
+    "session_id": "sample_903570d5",
+    "sentence_label": "I sign EAT",
+    "gloss_labels": [
+      "EAT"
+    ],
+    "signer_id": "signer_03",
+    "num_frames": 28,
+    "duration_sec": 0.001,
+    "fps": 27103.74,
+    "quality_score": 100.0,
+    "warnings": [],
+    "created_at": "2026-07-26 23:07:00"
+  },
+  {
+    "session_id": "sample_881b852b",
+    "sentence_label": "I sign RICE",
+    "gloss_labels": [
+      "RICE"
+    ],
+    "signer_id": "signer_04",
+    "num_frames": 28,
+    "duration_sec": 0.001,
+    "fps": 22519.75,
+    "quality_score": 100.0,
+    "warnings": [],
+    "created_at": "2026-07-26 23:07:00"
+  },
+  {
+    "session_id": "sample_cf582a81",
+    "sentence_label": "I sign HELLO",
+    "gloss_labels": [
+      "HELLO"
+    ],
+    "signer_id": "signer_01",
+    "num_frames": 37,
+    "duration_sec": 0.0,
+    "fps": 0.0,
+    "quality_score": 100.0,
+    "warnings": [],
+    "created_at": "2026-07-26 23:07:00"
+  },
+  {
+    "session_id": "sample_10564079",
+    "sentence_label": "I sign THANK-YOU",
+    "gloss_labels": [
+      "THANK-YOU"
+    ],
+    "signer_id": "signer_02",
+    "num_frames": 42,
+    "duration_sec": 0.001,
+    "fps": 41973.02,
+    "quality_score": 100.0,
+    "warnings": [],
+    "created_at": "2026-07-26 23:07:00"
+  },
+  {
+    "session_id": "sample_27fec44d",
+    "sentence_label": "I sign YES",
+    "gloss_labels": [
+      "YES"
+    ],
+    "signer_id": "signer_03",
+    "num_frames": 28,
+    "duration_sec": 0.001,
+    "fps": 28142.95,
+    "quality_score": 100.0,
+    "warnings": [],
+    "created_at": "2026-07-26 23:07:00"
+  },
+  {
+    "session_id": "sample_834f7f5e",
+    "sentence_label": "I sign NO",
+    "gloss_labels": [
+      "NO"
+    ],
+    "signer_id": "signer_04",
+    "num_frames": 28,
+    "duration_sec": 0.001,
+    "fps": 27982.01,
+    "quality_score": 100.0,
+    "warnings": [],
+    "created_at": "2026-07-26 23:07:00"
+  },
+  {
+    "session_id": "sample_4891f49f",
+    "sentence_label": "I sign PLEASE",
+    "gloss_labels": [
+      "PLEASE"
+    ],
+    "signer_id": "signer_01",
+    "num_frames": 25,
+    "duration_sec": 0.0,
+    "fps": 0.0,
+    "quality_score": 100.0,
+    "warnings": [],
+    "created_at": "2026-07-26 23:07:00"
+  },
+  {
+    "session_id": "sample_35839ded",
+    "sentence_label": "I sign GOOD",
+    "gloss_labels": [
+      "GOOD"
+    ],
+    "signer_id": "signer_02",
+    "num_frames": 34,
+    "duration_sec": 0.0,
+    "fps": 0.0,
+    "quality_score": 100.0,
+    "warnings": [],
+    "created_at": "2026-07-26 23:07:01"
+  },
+  {
+    "session_id": "sample_7a917580",
+    "sentence_label": "I sign HELP",
+    "gloss_labels": [
+      "HELP"
+    ],
+    "signer_id": "signer_03",
+    "num_frames": 34,
+    "duration_sec": 0.001,
+    "fps": 32790.6,
+    "quality_score": 100.0,
+    "warnings": [],
+    "created_at": "2026-07-26 23:07:01"
+  },
+  {
+    "session_id": "sample_071b6402",
+    "sentence_label": "I sign FRIEND",
+    "gloss_labels": [
+      "FRIEND"
+    ],
+    "signer_id": "signer_04",
+    "num_frames": 35,
+    "duration_sec": 0.001,
+    "fps": 35002.54,
+    "quality_score": 100.0,
+    "warnings": [],
+    "created_at": "2026-07-26 23:07:01"
+  },
+  {
+    "session_id": "sample_8d6f01fc",
+    "sentence_label": "I sign NAME",
+    "gloss_labels": [
+      "NAME"
+    ],
+    "signer_id": "signer_01",
+    "num_frames": 40,
+    "duration_sec": 0.001,
+    "fps": 26719.57,
+    "quality_score": 100.0,
+    "warnings": [],
+    "created_at": "2026-07-26 23:07:01"
+  },
+  {
+    "session_id": "sample_43543c91",
+    "sentence_label": "I sign WANT",
+    "gloss_labels": [
+      "WANT"
+    ],
+    "signer_id": "signer_02",
+    "num_frames": 43,
+    "duration_sec": 0.001,
+    "fps": 43250.62,
+    "quality_score": 100.0,
+    "warnings": [],
+    "created_at": "2026-07-26 23:07:01"
+  },
+  {
+    "session_id": "sample_6730361b",
+    "sentence_label": "I sign ME",
+    "gloss_labels": [
+      "ME"
+    ],
+    "signer_id": "signer_03",
+    "num_frames": 43,
+    "duration_sec": 0.001,
+    "fps": 42526.54,
+    "quality_score": 100.0,
+    "warnings": [],
+    "created_at": "2026-07-26 23:07:01"
+  },
+  {
+    "session_id": "sample_d92b2f3f",
+    "sentence_label": "I sign LOVE",
+    "gloss_labels": [
+      "LOVE"
+    ],
+    "signer_id": "signer_04",
+    "num_frames": 33,
+    "duration_sec": 0.001,
+    "fps": 28029.98,
+    "quality_score": 100.0,
+    "warnings": [],
+    "created_at": "2026-07-26 23:07:01"
+  },
+  {
+    "session_id": "sample_8f3dbac2",
+    "sentence_label": "I sign TO",
+    "gloss_labels": [
+      "TO"
+    ],
+    "signer_id": "signer_01",
+    "num_frames": 34,
+    "duration_sec": 0.001,
+    "fps": 34026.8,
+    "quality_score": 100.0,
+    "warnings": [],
+    "created_at": "2026-07-26 23:07:01"
+  },
+  {
+    "session_id": "sample_a56da314",
+    "sentence_label": "I sign EAT",
+    "gloss_labels": [
+      "EAT"
+    ],
+    "signer_id": "signer_02",
+    "num_frames": 43,
+    "duration_sec": 0.002,
+    "fps": 23532.76,
+    "quality_score": 100.0,
+    "warnings": [],
+    "created_at": "2026-07-26 23:07:01"
+  },
+  {
+    "session_id": "sample_be62bacc",
+    "sentence_label": "I sign RICE",
+    "gloss_labels": [
+      "RICE"
+    ],
+    "signer_id": "signer_03",
+    "num_frames": 38,
+    "duration_sec": 0.001,
+    "fps": 37921.38,
+    "quality_score": 100.0,
+    "warnings": [],
+    "created_at": "2026-07-26 23:07:01"
+  },
+  {
+    "session_id": "sample_d6222977",
+    "sentence_label": "I sign HELLO",
+    "gloss_labels": [
+      "HELLO"
+    ],
+    "signer_id": "signer_04",
+    "num_frames": 26,
+    "duration_sec": 0.0,
+    "fps": 0.0,
+    "quality_score": 100.0,
+    "warnings": [],
+    "created_at": "2026-07-26 23:07:01"
+  },
+  {
+    "session_id": "sample_b25552f3",
+    "sentence_label": "I sign THANK-YOU",
+    "gloss_labels": [
+      "THANK-YOU"
+    ],
+    "signer_id": "signer_01",
+    "num_frames": 35,
+    "duration_sec": 0.001,
+    "fps": 34745.71,
+    "quality_score": 100.0,
+    "warnings": [],
+    "created_at": "2026-07-26 23:07:01"
+  },
+  {
+    "session_id": "sample_4d66a018",
+    "sentence_label": "I sign YES",
+    "gloss_labels": [
+      "YES"
+    ],
+    "signer_id": "signer_02",
+    "num_frames": 30,
+    "duration_sec": 0.001,
+    "fps": 30167.61,
+    "quality_score": 100.0,
+    "warnings": [],
+    "created_at": "2026-07-26 23:07:01"
+  },
+  {
+    "session_id": "sample_a7827ed0",
+    "sentence_label": "I sign NO",
+    "gloss_labels": [
+      "NO"
+    ],
+    "signer_id": "signer_03",
+    "num_frames": 28,
+    "duration_sec": 0.001,
+    "fps": 25442.05,
+    "quality_score": 100.0,
+    "warnings": [],
+    "created_at": "2026-07-26 23:07:01"
+  }
+]

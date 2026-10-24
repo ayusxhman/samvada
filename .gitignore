@@ -1,0 +1,126 @@
+# ============================================
+# Samvada Project - .gitignore
+# ============================================
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+*.whl
+.venv/
+venv/
+env/
+ENV/
+
+# --- Node.js / Frontend ---
+node_modules/
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+.next/
+out/
+
+# --- Datasets (124 GB+ — too large for GitHub) ---
+dataset/asl_alphabet/
+dataset/asl_citizen/
+dataset/asl_ds/
+dataset/asl_j_z_videos/
+dataset/cleaned/
+dataset/hand_signs/
+dataset/hindi_sl/
+dataset/how2sign/
+dataset/isl_csltr/
+dataset/landmarks_cache/
+dataset/recordings/
+dataset/sign_alphabet_real/
+dataset/splits/
+dataset/wlasl/
+dataset/word_images/
+dataset/alphabet_videos/
+dataset/animation_clips/
+dataset/*.pkl
+dataset/cleaning_report.json
+dataset/image_deep_verification_report.json
+dataset/video_integrity_report.json
+dataset/intro_placeholder.png
+dataset/final_cleaner.py
+dataset/per_word_accuracy.csv
+dataset/learned_words.json
+dataset/translation_cache.json
+dataset/offline_translation_dict.json
+
+# --- Large binary/media files ---
+*.vrm
+*.wav
+*.mp3
+*.mp4
+*.avi
+*.mov
+
+# --- IEEE Paper / Docs (not part of app) ---
+generate_ieee_paper.py
+generate_figures.py
+make_doc.py
+make_voices.py
+verify_docx.py
+paper_figures/
+word_accuracy_report.md
+viva_prep_guide.md
+app_icon.ico
+
+# --- IDE / Editor ---
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# --- Logs ---
+*.log
+
+# --- Test/scratch artifacts ---
+scratch/
+models_saved/
+test_*
+pdf_page_*.png
+fig1_on_page3.png
+page3_preview.png
+*.docx
+*.pdf
+
+# --- Generated docs ---
+Advanced_Viva_Cheat_Sheet.docx
+Hackathon_Documentation*.docx
+Project_Pitch_and_Tech_Stack.docx
+Research_References_SignBot.docx
+
+# --- Scripts (dataset cleaning, not app) ---
+scripts/clean_datasets*
+scripts/final_cleaner.py
+scripts/train_filtered_cslr.py
+scripts/train_sentence_model.py
+
+# --- Frontend backups ---
+frontend/src/app/*.backup
+frontend/src/app/*.pre_intro_backup
+frontend/src/app/debug_bones.html
+frontend/AGENTS.md
+frontend/CLAUDE.md
+
+# --- Backend extras ---
+backend/integration_test.py
+backend/training/generate_vrma_from_video.py
+
+# --- Misc ---
+.env
+.env.local
+.env.*.local
+curry_api.json
